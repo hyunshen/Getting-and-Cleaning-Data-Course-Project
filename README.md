@@ -18,4 +18,4 @@ The data for the project comes from:
 
 The `CodeBook.md` contains the description of the data.
 
-The final results are shown in `sub_data.txt` and `average_data.txt`
+The final results are shown in `average_data.txt`

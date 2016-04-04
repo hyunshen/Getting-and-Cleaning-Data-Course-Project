@@ -82,7 +82,7 @@ labelFactor <- as.factor(activityLabels[subData$activity, 2])
 # 4.2 Replace the label column in data set to factor vector
 subData$activity <- labelFactor
 # 4.3 Output clean subset data
-write.table(subData, "sub_data.txt") 
+# write.table(subData, "sub_data.txt") 
 
 # Mission 5: From the data set in step 4, creates a second, 
 # independent tidy data set with the average of each variable for 

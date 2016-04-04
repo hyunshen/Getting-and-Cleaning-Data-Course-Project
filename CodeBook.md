@@ -5,7 +5,7 @@ output: html_document
 
 ## Code Book ##
 ***
-This code book summarizes the resulting data fields in `sub_data.txt`.
+This code book summarizes the resulting data fields in `average_data.txt`.
 
 ### Labels ###
 ***
